@@ -1,5 +1,5 @@
 const { getPriceByTokens } = require("../services/getPriceByTokensService");
-
+const logger = require("../logger");
 const getRates = async (req, res) => {
   const token1 = req.query.baseCurrency;
   const token2 = req.query.quoteCurrency;
