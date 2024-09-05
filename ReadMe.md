@@ -1,10 +1,6 @@
 # Project Title
 
-Выполненное тестовое задание
-
-## Description
-
-Все требования выполнены, комментарии созданы, возможность легко добавлять монеты и биржи предусмотрена, ведется логирование ошибок
+Completed test task
 
 ## Getting Started
 
@@ -28,9 +24,6 @@ node src/app.js
 
 ## Help
 
-@fifumain - телеграм
-pustovoitenkofilip@gmail.com - почта
+@fifumain - telegram
+pustovoitenkofilip@gmail.com - Email
 
-## Authors
-
-Я и только я
